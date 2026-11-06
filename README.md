@@ -28,7 +28,7 @@ This is an overview about different hands-on labs around WebSphere Liberty using
 
 - **Liberty Getting Started - Mono2Micro**
     - Content: Tutorial about Refactoring a monolithic Liberty application using IBM Mono2Micro
-    - URL: https://github.com/LarsBesselmann/LibertyGettingStarted-2026-AMA-Bob-Lab
+    - URL: https://github.com/LarsBesselmann/LibertyGettingStarted-2026-M2M-Lab
 
 
 
